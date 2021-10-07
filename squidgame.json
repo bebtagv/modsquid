@@ -318,10 +318,10 @@
     },
 	{
 			"id": 2,
-			"name_map": "Animatronic Maps",
-			"map_url": "https://ia801503.us.archive.org/23/items/animatron1/FNaF%20Matronic%202%20.zip",
-			"view_map": "https://my.mcpedl.com/storage/texturepacks/97/images/5c560911c55a9.png",
-			"des_map": "https://my.mcpedl.com/storage/texturepacks/97/images/5c560911c55a9.png"
+			"name_map": "Squid Game RED LIGHT GREEN LIGHT",
+			"map_url": "https://raw.githubusercontent.com/bebtagv/modsquid/main/Squid%20Game%20(RED%20LIGHT%2C%20GREEN%20LIGHT).zip",
+			"view_map": "https://api.mcpedl.com/storage/submissions/127035/images/squid-game-red-light-green-light-map_3.png",
+			"des_map": "https://api.mcpedl.com/storage/submissions/127035/images/squid-game-red-light-green-light-map_3.png"
 		},
 		{
 			"id": 3,
